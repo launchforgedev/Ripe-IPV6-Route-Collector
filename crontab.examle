@@ -1,0 +1,1 @@
+0 8 * * * /full/path/to/ripe-ipv6-collector/scripts/ribupdates.sh >> /full/path/to/ripe-ipv6-collector/logs/cron.log 2>&1
