@@ -1,0 +1,9 @@
+# Ignore compiled and temporary files
+*.gz
+*.log
+*.bak
+*.swp
+*.tmp
+*.out
+ipv6log.txt
+.last_processed_rib.txt
