@@ -66,7 +66,7 @@ sudo apt install bgpdump
 
 ## 📄 License
 
-MIT License (or insert your license here)
+MIT License 
 
 ---
 
